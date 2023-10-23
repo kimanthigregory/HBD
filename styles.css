@@ -1,0 +1,14 @@
+body{
+    background-color: #14121c;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.logo img{
+    width: 5rem;
+    margin: 0 auto;
+}
+
+.text h1{
+    font-size: 4rem;
+    color: #fff;
+    /* text-align: center; */
+}
